@@ -6,11 +6,11 @@
     <title>PHP</title>
 </head>
 <body>
-    <h1>Exemplo PHP</h1>
+    <h1>Example PHP</h1>
     <?
     //date_default_timezone_set("America/Sao_Paulo");
-    echo "Hoje é dia ". date("d/M/Y"); 
-    print"e a hora é" . date("G:i:s T");
+    echo "Today is ". date("d/M/Y"); 
+    print"and the hour is" . date("G:i:s T");
     ?>
 </body>
 </html>
